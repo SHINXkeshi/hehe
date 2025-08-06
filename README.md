@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Love Letter for MJ</title>
+    <title>SURPFRIES for MJ</title>
     <style>
         body {
             margin: 0;
@@ -59,9 +58,12 @@
             <h1>To My Queen</h1>
             <p>My dearest MJ,</p>
             <p>Every moment with you feels like a precious gift. Your love colors my world with the most beautiful hues. Remember when we danced under the stars? That memory plays in my heart like our favorite song. Keep shining, my love — the universe is brighter with you in it.</p>
-            <div class="signature">Forever yours ❤</div>
+            <div class="signature">Forever yours, 
+             SEB❤</div>
             <div class="date">August 6, 2025</div>
         </div>
     </div>
 </body>
+
 </html>
+
