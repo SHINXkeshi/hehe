@@ -57,7 +57,7 @@
         <div class="letter">
             <h1>To My Queen</h1>
             <p>My dearest MJ,</p>
-            <p>Every moment with you feels like a precious gift. Your love colors my world with the most beautiful hues. Remember when we danced under the stars? That memory plays in my heart like our favorite song. Keep shining, my love — the universe is brighter with you in it.</p>
+            <p>You're the crown that sits gently on my heart. You make my world so warm and sparkly hehe. I wanna say I'm proud of your performance in Kuratsa..even though I didn't get to see it myself, but I know that you did great. Please know your hardworks and efforts are not in vain..And if y'all did a great job? THEN CONGRATULATIONS IM SO PROUD OF YA :3....I really got nthn much to say hehe sooo I LOVE YAA ;)</p>
             <div class="signature">Forever yours, 
              SEB❤</div>
             <div class="date">August 6, 2025</div>
